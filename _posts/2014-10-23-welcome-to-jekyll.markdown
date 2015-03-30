@@ -10,7 +10,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the
 convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front
 matter. Take a look at the source for this post to get an idea about how $$x^x\ \sqrt[x]{x}$$ it works.
 
-$$ e^{i \varphi} = \cos (\varphi) - \frac {sin(\varphi)} {i} $$
+$$ e^{i \varphi} = \cos (\varphi) - \frac {\sin(\varphi)} {i} $$
 
 
 Jekyll also offers powerful support for code snippets:
